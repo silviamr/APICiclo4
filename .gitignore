@@ -1,5 +1,7 @@
 node_modules
 config.json
+src/datasources/mongo.datasource.ts
+
 
 # Logs
 logs
